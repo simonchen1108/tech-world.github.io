@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hello Everyone! Welcome to Sc's tech world!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I would like to share some exciting tech-related news with you weekly.
